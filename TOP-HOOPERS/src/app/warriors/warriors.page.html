@@ -1,0 +1,24 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-title>Warriors</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <ion-icon color="danger" name="chevron-back-circle-outline" (click)="backHome()"></ion-icon>
+
+    <ion-card>
+        <ion-card-header>
+            <div class="ion-text-center">
+                <img src="assets/equipo1.png" alt="WARRIORS LOGO">
+            </div>
+            <ion-card-title>Golden State Warriors</ion-card-title>
+            <ion-card-subtitle>Record: 0-0</ion-card-subtitle>
+        </ion-card-header>
+    </ion-card>
+    <div class="ion-text-center">
+        <ion-button expand="block" fill="outline" (click)="movetoJugadores()">Jugadores</ion-button>
+        <ion-button expand="block" fill="outline" (click)="movetoCalendario()">Calendario</ion-button>
+        <ion-button expand="block" fill="outline" (click)="movetoAdeudos()">Adeudos</ion-button>
+    </div>
+</ion-content>
