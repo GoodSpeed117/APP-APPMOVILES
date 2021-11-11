@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377980534324",
+    "project_id": "pia-top-hoopers",
+    "storage_bucket": "pia-top-hoopers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377980534324:android:cd4ef489eca9077894d461",
+        "android_client_info": {
+          "package_name": "com.hoopers.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377980534324-f0b2cocmol2g0jo56a3q4mv2ic8uojrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNeJsW85z9DS2cIBogwx-Ln-_SgC1K4Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377980534324-f0b2cocmol2g0jo56a3q4mv2ic8uojrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

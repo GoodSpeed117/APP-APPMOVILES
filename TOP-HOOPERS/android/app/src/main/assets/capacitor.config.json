@@ -1,0 +1,6 @@
+{
+	"appId": "com.hoopers.app",
+	"appName": "TOP-HOOPERS",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TOP-HOOPERS</string>
+    <string name="title_activity_main">TOP-HOOPERS</string>
+    <string name="package_name">com.hoopers.app</string>
+    <string name="custom_url_scheme">com.hoopers.app</string>
+</resources>
